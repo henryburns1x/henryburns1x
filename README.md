@@ -1,4 +1,5 @@
--Im Henry and I enjoy writing little code to solve little problems:)
+Im Henry and I enjoy writing little code to solve little problems:)
+also love gaming 
 
 <!---
 henryburns1x/henryburns1x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
